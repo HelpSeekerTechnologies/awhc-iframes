@@ -4,8 +4,8 @@ Static HTML pages embedded in the Mareto Compose dashboard for A Way Home Canada
 
 ## Live pages
 
-- [`glossary.html`](https://arda-baykal.github.io/awhc-iframes/glossary.html) — Mareto Glossary (core entities, taxonomy, funding, reporting, system conventions)
-- [`lobby-mini.html`](https://arda-baykal.github.io/awhc-iframes/lobby-mini.html) — Lobby Activity widget (KPI tiles + recent reportable events)
+- [`glossary.html`](https://helpseekertechnologies.github.io/awhc-iframes/glossary.html) — Mareto Glossary (core entities, taxonomy, funding, reporting, system conventions)
+- [`lobby-mini.html`](https://helpseekertechnologies.github.io/awhc-iframes/lobby-mini.html) — Lobby Activity widget (KPI tiles + recent reportable events)
 
 ## Data files
 
